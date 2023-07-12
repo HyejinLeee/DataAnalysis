@@ -12,6 +12,6 @@
 
 ### 쇼핑몰
 
-1. [쇼핑몰 리뷰 크롤링 및 분석]
+1. [쇼핑몰 리뷰 크롤링 및 분석](https://github.com/HyejinLeee/DataAnalysis/blob/master/%ED%81%AC%EB%A1%A4%EB%A7%81/%EC%95%84%EC%9D%B4%ED%85%9C%EB%B6%84%EC%84%9D.ipynb)
 
   
